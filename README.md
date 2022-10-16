@@ -9,3 +9,10 @@
   <li>💞️ I’m looking to collaborate my little projects
   <li>📫 How to reach me <a href="https://www.instagram.com/lucasribeiro-santos">Instagram</a>
 </ul>
+
+## My github stats
+
+<div>
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=LucasRibeiro-Santos&count_private=true&theme=github_dark&include_all_commits=true" />
+<img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeiro-Santos&layout=compact&theme=github_dark&include_all_commits=true" />
+</div>
