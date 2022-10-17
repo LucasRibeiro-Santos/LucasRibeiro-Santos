@@ -7,13 +7,13 @@
 
 - ☕ I’m interested in help people like programer
 
-- - 💬 Ask me about **JavaScript, HTML and CSS**
+- 💬 Ask me about **JavaScript, HTML and CSS**
 
 - 🧱 I’m currently learning more Front-end
 
 - 🥨 I’m looking to collaborate with my little projects
 
-- 📦 How to reach me in? <a href="lucasribeiro.dev@outlook.com" target="_blank">lucasribeiro.dv@outlook.com</a>
+- 📦 How to reach me in? <a href="lucasribeiro.dev@outlook.com" target="_blank">lucasribeiro.dev@outlook.com</a>
 
 <!--contact us for here-->
 
@@ -25,7 +25,6 @@
 <a href="https://instagram.com/lucasribeiro_dev" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lucasribeiro_dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://discord.gg/tmZ9QshQ" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br><br>
 
