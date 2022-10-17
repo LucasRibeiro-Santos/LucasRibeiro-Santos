@@ -23,7 +23,7 @@
   <img align="center" src="https://img.shields.io/badge/-lucas ribeiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/lucasribeiro_dev" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucasribeiro_dev-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-lucasribeiro__dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
 <br><br>
