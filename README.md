@@ -43,7 +43,7 @@
   
   <br><br>
   
-  <h align="left">Another hobby's</h2>
+  <h2 align="left">Another hobby's</h2>
   
   ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft-excel&logoColor=blue)&nbsp;
   ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Word-05122A?style=flat&logo=microsoft-word&logoColor=green)&nbsp;
